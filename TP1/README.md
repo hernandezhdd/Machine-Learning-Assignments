@@ -1,9 +1,11 @@
 # Trabajo Práctico 1
 ## Comentarios
 
-No tuve problemas para hacerlo, pero no estaba seguro bien si había que hacerlo en algún formato en especial, 
-así que copié las tablas de las diapos a Excel. Si es necesario lo puedo pasar a un Notebook de Python, o a
-Collab.
+No tuve problemas para hacerlo, pero no quedó muy clara la consigna y no estaba seguro bien si había que
+hacerlo en algún formato en especial.
+La encuesta de Google veo que es para entregar todos los TPs, asi que estaría bueno que quede fijada arriba de
+todos los posteos de FB, o marcada como publicación especial, no se si se puede en los grupos de FB. 
+
 
 ## Resultados
 I  
