@@ -1,2 +1,3 @@
-# TrabajosMachineLearning
-TPs de la materia ML
+# Machine Learning Assignments
+
+Assignments from Machine Learning subject at Universidad Nacional del Sur.
