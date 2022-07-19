@@ -41,7 +41,7 @@ flowers were classified with great accuracy.
     for layer in base_model.layers[:fine_tune_at]:
       layer.trainable = False
       
-###### After re-training accuracy
+After re-training accuracy
 
     > Epoch 15/15 346/346 [==============================] - 70s 200ms/step - 
     > loss: 0.169 - accuracy: 0.946 - val_loss: 0.184 - val_accuracy: 0.943
