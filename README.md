@@ -17,7 +17,7 @@ flowers were classified with great accuracy.
 </p>
 
 ### Transfer learning
-#### Using pre-trained weights with a different classifier
+#### Using pre-trained weights with a new classifier
 
     > Epoch 8/8 346/346 [==============================] - 44s 125ms/step 
     > loss: 0.523 - accuracy: 0.851 - val_loss: 0.423 - val_accuracy: 0.885
