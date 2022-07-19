@@ -1,8 +1,6 @@
-# Machine Learning Assignments Repo
+#### Repo: Assignments from Machine Learning subject at Universidad Nacional del Sur.
 
-##### Assignments from Machine Learning subject at Universidad Nacional del Sur.
-
-## Final *Machine Learning* Project: *Transfer Learning* con las redes neuronales MobileNetV3 y EfficientNetV2B0
+## Final Project: *Transfer Learning* using the neural networks MobileNetV3 and EfficientNetV2B0
 
 #### Abstract
 I used transfer learning on image classification Convolutional
