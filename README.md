@@ -19,8 +19,8 @@ flowers were classified with great accuracy.
 ### Transfer learning
 #### Using pre-trained weights with a different classifier
 
-    Epoch 8/8 346/346 [==============================] - 44s 125ms/step 
-    loss: 0.523 - accuracy: 0.851 - val_loss: 0.423 - val_accuracy: 0.885
+    > Epoch 8/8 346/346 [==============================] - 44s 125ms/step 
+    > loss: 0.523 - accuracy: 0.851 - val_loss: 0.423 - val_accuracy: 0.885
     
 <p align="center">
   <img src="https://user-images.githubusercontent.com/71747228/179805665-f9477f78-414b-4e2f-8ef5-e2694514b705.png" />
@@ -43,17 +43,19 @@ flowers were classified with great accuracy.
       
 ###### After re-training accuracy
 
-    Epoch 15/15 346/346 [==============================] - 70s 200ms/step - 
-    loss: 0.169 - accuracy: 0.946 - val_loss: 0.184 - val_accuracy: 0.943
-   
+    > Epoch 15/15 346/346 [==============================] - 70s 200ms/step - 
+    > loss: 0.169 - accuracy: 0.946 - val_loss: 0.184 - val_accuracy: 0.943
+
+There was good improvement, and after a few epochs the model was starting to overfit.
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/71747228/179807224-6233e8ab-097e-4c6d-a62c-4f037be2d0cd.png" />
 </p>
 
-#### Rest set results
+#### Test set results
 
     loss, accuracy = model.evaluate(test_dataset)
     print('Test accuracy :', accuracy)
 
-    17/17 [==============================] - 2s 95ms/step - 
-    loss: 0.165 - accuracy: 0.945 Test accuracy : 0.945
+    > 17/17 [==============================] - 2s 95ms/step - 
+    > loss: 0.165 - accuracy: 0.945 Test accuracy : 0.945
